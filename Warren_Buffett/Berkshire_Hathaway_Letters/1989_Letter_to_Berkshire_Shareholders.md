@@ -489,7 +489,7 @@ We continue to be blessed with extraordinary managers at our portfolio companies
 
 We told you last year that we expected to do little in arbitrage during 1989, and that's the way it turned out. Arbitrage positions are a substitute for short-term cash equivalents, and during part of the year we held relatively low levels of cash. In the rest of the year we had a fairly good-sized cash position and even so chose not to engage in arbitrage. The main reason was corporate transactions that made no economic sense to us; arbitraging such deals comes too close to playing the greater-fool game. (As Wall Streeter Ray DeVoe says: "Fools rush in where angels fear to trade.") We will engage in arbitrage from time to time - sometimes on a large scale - but only when we like the odds.
 
-去年我曾向各位报告，1989年可能会减少在套利投资方面的活动，结果正是如此，套利投资是短期资金的替代去处，有时我们手头上没有太多的现金，就算是有我们也宁愿选择不参与套利，主要的原因是因为最近这些企业活动实在是没有太大的经济意义，从事这类套利交易就好象是在玩博傻游戏，正如华尔街人士Ray DeVoe所说，天使回避的地方傻瓜却趋之若骛。我们三不五时会从事大型的套利交易，但只有当我们觉得胜算颇大时，才会考虑进场。
+去年我曾向各位报告，1989年可能会减少在套利投资方面的活动，结果正是如此，套利投资是短期资金的替代去处，有时我们手头上没有太多的现金，就算是有我们也宁愿选择不参与套利，主要的原因是因为最近这些企业活动实在是没有太大的经济意义，从事这类套利交易就好象是在玩博傻游戏，正如华尔街人士Ray DeVoe所说，天使回避的地方傻瓜却趋之若骛。我们会不时从事大型的套利交易，但只有当我们觉得胜算颇大时，才会考虑进场。
 
 ## Fixed Income Securities 固定收益证券
 
