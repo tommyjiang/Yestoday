@@ -406,7 +406,7 @@ No of Shares</br>股份数量|Company</br>公司名称|Cost</br>成本(000s omit
 
 *\* Although nominally a preferred stock, this security is financially equivalent to a common stock.*
 
-*\* （翻译缺失……）*
+*\* 尽管名义上是优先股，但在金融价值上等价于普通股*
 
 Our permanent holdings - Capital Cities/ABC, Inc., GEICO Corporation, and The Washington Post Company - remain unchanged. Also unchanged is our unqualified admiration of their managements: Tom Murphy and Dan Burke at Cap Cities, Bill Snyder and Lou Simpson at GEICO, and Kay Graham and Dick Simmons at The Washington Post. Charlie and I appreciate enormously the talent and integrity these managers bring to their businesses.
 
