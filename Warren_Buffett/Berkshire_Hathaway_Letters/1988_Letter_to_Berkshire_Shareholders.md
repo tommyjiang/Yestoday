@@ -418,7 +418,7 @@ Their performance, which we have observed at close range, contrasts vividly with
 
 If a secretary, say, is hired for a job that requires typing ability of at least 80 words a minute and turns out to be capable of only 50 words a minute, she will lose her job in no time. There is a logical standard for this job; performance is easily measured; and if you can’t make the grade, you’re out. Similarly, if new sales people fail to generate sufficient business quickly enough, they will be let go. Excuses will not be accepted as a substitute for orders.
 
-假设一位秘书在应征时被要求一分钟要能够打80个字，但录取之后被发现一分钟只能打50个字，很快地她就可能会被炒鱿鱼，因为有一个相当客观的标准在那里，其表现如何很容易可以衡量的出来；同样的，一个新进的业务员，若是不能马上创造足够业绩，可能立刻就被解雇，为了维持纪律，很难允许有例外情形发生。
+假设一位秘书在应征时被要求一分钟要能够打80个字，但录取之后被发现一分钟只能打50个字，很快地她就可能会被炒鱿鱼，因为有一个相当客观的标准在那里，其表现如何很容易可以衡量的出来；同样的，一个新的业务员，如果不能马上完成足够的业绩，可能立刻就被解雇，完不成业绩的借口并不能代替订单，成为留下你的理由。
 
 However, a CEO who doesn’t perform is frequently carried indefinitely. One reason is that performance standards for his job seldom exist. When they do, they are often fuzzy or they may be waived or explained away, even when the performance shortfalls are major and repeated. At too many companies, the boss shoots the arrow of managerial performance and then hastily paints the bullseye around the spot where it lands.
 
