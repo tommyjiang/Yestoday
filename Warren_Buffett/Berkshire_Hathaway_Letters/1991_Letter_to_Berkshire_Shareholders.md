@@ -26,7 +26,7 @@ The size of our equity capital - which now totals $7.4 billion - makes it certai
 
 Charlie Munger, Berkshire's Vice Chairman, and I have set a goal of attaining a 15% average annual increase in Berkshire's intrinsic value. If our growth in *book* value is to keep up with a 15% pace, we must earn $22 billion during the next decade. Wish us luck - we'll need it.
 
-伯克希尔的副主席查理·芒格与我一起设定，以15%做为每年公司内在价值增长的目标，也就是说如果在未来十年内，公司要能达到这个目标，则账面价值至少要增加220亿美元，请大家祝我们好运吧！我们真的很需要。
+我和伯克希尔的副主席查理·芒格共同设定的目标，是让伯克希尔的内在价值每年平均增长15%。为了跟上这（指内在价值）15%的增速，我们的*账面*价值必须在未来十年内增加220亿美元。祝我们好运吧——我们会非常需要它的。
 
 Our outsized gain in book value in 1991 resulted from a phenomenon not apt to be repeated: a dramatic rise in the price-earnings ratios of Coca-Cola and Gillette. These two stocks accounted for nearly $1.6 billion of our $2.1 billion growth in net worth last year. When we loaded up on Coke three years ago, Berkshire's net worth was $3.4 billion; now our Coke stock alone is worth more than that.
 
@@ -40,7 +40,7 @@ Coca-Cola and Gillette are two of the best companies in the world and we expect 
 
 In 1989 when I - a happy consumer of five cans of Cherry Coke daily - announced our purchase of $1 billion worth of Coca-Cola stock, I described the move as a rather extreme example of putting our money where my mouth was. On August 18 of last year, when I was elected Interim Chairman of Salomon Inc, it was a different story: I put my mouth where our money was.
 
-1989年当我以每天五瓶樱桃可乐的爱好者身份，宣布买进价值10亿美元的可口可乐股票时，我曾形容这项举动其实只是反映出我们的投资回报怎么跟着我的行动走。在去年8月18日当我被推举为所罗门公司的临时主席时，则完全是另外一件事，这次我不得不跟着我们的投资行动起来。
+1989 年，当时我作为一名每天开心畅饮五罐樱桃味可口可乐的消费者，宣布我们购买了价值 10 亿美元的可口可乐股票。我把这一举动形容为一种极端的“用金钱印证言论（putting our money where my mouth was）”。而在去年 8 月 18 日，当我被选为所罗门公司的临时董事长时，这笔投资的情况则完全相反：我是在“用言论维护金钱（put my mouth where our money was）”。
 
 You've all read of the events that led to my appointment. My decision to take the job carried with it an implicit but important message: Berkshire's operating managers are so outstanding that I knew I could materially reduce the time I was spending at the company and yet remain confident that its economic progress would not skip a beat. The Blumkins, the Friedman family, Mike Goldberg, the Heldmans, Chuck Huggins, Stan Lipsey, Ralph Schey and Frank Rooney (CEO of H.H. Brown, our latest acquisition, which I will describe later) are all masters of their operations and need no help from me. My job is merely to treat them right and to allocate the capital they generate. Neither function is impeded by my work at Salomon.
 
